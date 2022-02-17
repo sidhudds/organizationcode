@@ -1,0 +1,698 @@
+<script type="application/ld+json"> 
+{"@context":"https://schema.org", 
+"@type":"Organization", 
+"@id":"https://www.bluewaterdentists.com/#organization", 
+"additionalType":[
+  "http://en.wikipedia.org/wiki/Dentistry",
+        "http://productontology.org/id/Dentistry",
+  "http://en.wikipedia.org/wiki/Cosmetic_dentistry",
+        "http://productontology.org/id/Cosmetic_dentistry",
+  "http://en.wikipedia.org/wiki/Tooth",
+    "http://productontology.org/id/Tooth",
+  "http://en.wikipedia.org/wiki/Smile",
+        "http://productontology.org/id/Smile",
+  "https://en.wikipedia.org/wiki/Mouth",
+        "http://productontology.org/id/Mouth",
+  "https://en.wikipedia.org/wiki/Oral_hygiene",
+        "http://productontology.org/id/Oral_hygiene",
+  "https://en.wikipedia.org/wiki/Teeth_cleaning",
+        "http://productontology.org/id/Teeth_cleaning",
+  "https://en.wikipedia.org/wiki/Dental_extraction",
+        "http://productontology.org/id/Dental_extraction",
+  "https://en.wikipedia.org/wiki/Oral_and_maxillofacial_surgery",
+        "http://productontology.org/id/Oral_and_maxillofacial_surgery",
+    "http://en.wikipedia.org/wiki/Dental_braces",
+        "http://productontology.org/id/Dental_braces",
+    "http://en.wikipedia.org/wiki/Veneer_(dentistry)",
+        "http://productontology.org/id/Veneer_(dentistry)",
+    "http://en.wikipedia.org/wiki/Dental_implant",
+        "http://productontology.org/id/Dental_implant",
+    "http://en.wikipedia.org/wiki/Tooth_whitening",
+        "http://productontology.org/id/Tooth_whitening",
+    "https://en.wikipedia.org/wiki/Dental_restoration",
+        "http://productontology.org/id/Dental_restoration",
+    "https://en.wikipedia.org/wiki/Gums",
+        "http://productontology.org/id/Gums",
+    "https://en.wikipedia.org/wiki/Crown_(dentistry)",
+        "http://productontology.org/id/Crown_(dentistry)",
+    "https://en.wikipedia.org/wiki/Dentures",
+        "http://productontology.org/id/Dentures"
+],
+"url": "https://www.bluewaterdentists.com/",
+"identifier": "https://www.google.com/search?q=Blue+Water+Dental+Langley&kponly&kgmid=/g/1td17jmz",
+"brand" : { 
+    "@type" : "Brand", 
+    "name" : "Blue Water Dental", 
+    "image" : "https://uploads-ssl.webflow.com/61b5131022f5b04588c3d3fe/61d67d42d1dba43169a35547_girl-smile-teeth-dental-200KB.jpg",
+    "logo": "https://uploads-ssl.webflow.com/61b5131022f5b04588c3d3fe/61cc60a8fb0ea12bd6152277_Blue%20Water%20Logo.svg",
+    "slogan" : "Dental Care Plays an Important Role in your Family’s Health and Well-being",
+    "additionalType" : "http://en.wikipedia.org/wiki/Dentistry",
+    "additionalProperty": "https://www.facebook.com/Blue-Water-Dental-106041314912275",
+    "alternateName": ["Dental Clinic Langley","Langley BC Dentistry","Blue Water Dentists","Blue Water Dental Practice"],
+    "description":"At our dentist's office in Langley City, British Columbia we provide quality continuing care with dental exams and teeth cleanings for patients every three to six months as well as providing dental implants to replace a missing tooth or missing teeth or fill gaps. Invisalign can also be used on kids so they have straight looking dentition by adulthood!",
+    "disambiguatingDescription" : "We are a full service family dentist office serving Langley City, BC providing quality continuing care with exams and cleanings with a hygienist on a regular basis for patients. We provide dental implants, dental bridges and partial dentures to replace missing teeth and fill gaps. Invisalign for kids, adults and seniors to straighten teeth. Emergency appointments for teeth extractions. Dental crowns and composite dental fillings to repair fractures, cavities and protect teeth. Root canals for abscesses and infections. Wisdom teeth extractions with the option of oral sedation dentistry for comfort. We also provide cosmetic dentistry with teeth whitening, smile analysis and porcelain veneers.",
+    "potentialAction" : "https://www.bluewaterdentists.com/contact/",
+    "sameAs" : ["https://www.google.com/search?q=dental+practice&kgmid=/m/0277g", "https://www.google.com/search?q=pediatric+dentist&kgmid=/m/060sxv","https://www.google.com/search?q=orthodontics&kgmid=/m/0bdtxh"]
+  },
+"department" : { 
+    "@type" : "Organization", 
+    "@id":"https://www.bluewaterdentists.com/#parent", 
+    "name" : "BlueWaterDentists.com", 
+    "url": "https://www.bluewaterdentists.com/", 
+    "description" : "Blue Water Dental was founded over 40 years ago to provide the best quality dental treatments in Langley City and throughout the lower mainland in British Columbia." },
+"parentOrganization" : {"@id":"https://www.bluewaterdentists.com/#parent"}, 
+"name":"Blue Water Dental", 
+"alternateName": ["Blue Water Dental Service","British Columbia Dental Clinic","BC Dentists","Oral Care Blue Water","Family Dental Care"],
+"disambiguatingdescription":"At the dentist's office in Langley, British Columbia you'll find a full service family dentists providing quality continuing care with dental teeth exams and cleanings for prospective patients. They offer dental implants to replace missing dentition or fill gaps; partial Dentures can be fabricated when there is damage from severe tooth loss as well as root canal treatment if an abscess has formed on one of your natural gum tissues surrounding it which could lead towards infection setting into nearby gums causing painlfull swelling around these areas too! There are also other services such us emergency dentistry appointments (if needed) wisdom tooth removals by using oral conscious sedation techniques during treatment!", 
+"mainEntityOfPage":"https://www.google.com/maps/place/Blue+Water+Dental+Langley/@49.1060185,-122.6525575,17z/data=!3m1!4b1!4m5!3m4!1s0x5485ce2da00ebdd7:0xf185ad7888811743!8m2!3d49.1060185!4d-122.6503688",
+"areaServed":["https://dbpedia.org/page/Canada","https://dbpedia.org/page/British_Columbia","https://dbpedia.org/page/Langley,_British_Columbia_(city)"],
+"description":"We are a full service family dentist clinic serving the greater Langley City area with our own hospital-grade instrument sterilizer, allowing us to provide quality care and great customer satisfaction. We offer cleanings on an appointment basis as well as new patient exams for patients who might need more treatment than what can be done in one visit or during emergency situations like toothaches.", 
+"sameAs": [
+    "https://www.facebook.com/Blue-Water-Dental-106041314912275",
+    "https://www.youtube.com/channel/UCSOeNyRLF3RJihtDU5Wzd0A",
+    "https://www.instagram.com/bluewaterdentists/",
+    "https://twitter.com/BlueWaterLCity",
+    "https://www.yelp.ca/biz/blue-water-dental-langley",
+    "https://business.langleychamber.com/list/member/blue-water-dental-16418",
+    "https://www.waze.com/live-map/directions/canada/british-columbia/langley/blue-water-dental-langley?to=place.ChIJ170OoC3OhVQRQxeBiHithfE",
+    "https://www.yellowpages.ca/bus/British-Columbia/Langley/Blue-Water-Dental/2627040.html",
+    "https://www.n49.com/biz/4513547/blue-water-dental-bc-langley-208-20644-eastleigh-crescent/", 
+    "https://websites.ca/listing/J0_kOh1XJ",  
+    "https://www.canpages.ca/page/BC/langley/blue-water-dental/2627040", 
+    "https://www.ratemds.com/clinic/ca-bc-surrey-894/", 
+    "https://www.bbb.org/ca/bc/langley/profile/dentist/blue-water-dental-0037-2416050", 
+    "https://www.cylex-canada.ca/company/blue-water-dental-24449842.html", 
+    "https://opening-hours.me/08580974/Blue_Water_Dental",
+    "https://www.nexdu.com/ca/langley-bc/business/blue-water-dental-1494930",
+    "https://verview.com/biz/16481-blue-water-dental-langley-british-columbia",
+    "https://www.shoplangley.com/bluewaterdental",
+    "https://all-opening-hours.ca/04290487/Blue_Water_Dental",
+    "https://www.awwwards.com/sites/blue-water-dental",
+    "https://www.cssdesignawards.com/sites/blue-water-dental/39060/",
+    "https://www.411directoryassistance.ca/blue-water-dental-langley-BC-604-534-2324.html",
+    "https://ca.linkedin.com/in/dr-gurpreet-sidhu-3b3a2763",
+    "https://www.ratemds.com/doctor-ratings/3199772/Dr-Gurpreet-Sidhu-Surrey-BC.html/",
+    "https://luminohealth.sunlife.ca/en/health-care-provider-profile/family-dentist/dr-graeme-yip/gurpreet-sidhu-213338-169681/",
+    "https://canadian.dental/dentist-news/item/dr-gurpreet-sidhu/",
+    "https://www.facebook.com/gurpreet.sidhu.9803150",
+    "https://www.hotfrog.ca/company/1074648460472320/blue-water-dental/langley/dentists",
+    "https://m411.ca/6045342324-blue-water-dental-langley-BC.html",
+    "https://blue-water-dental.business.site/?m=true"
+],
+"image": {
+    "@type":"ImageObject",
+    "name":"Blue Water Dental image",
+    "creator":"Dr Gurpreet Sidhu",
+    "author":"Dr Gurpreet Sidhu",
+    "contentLocation":"Langley BC",
+    "description":"Blue Water Dental was founded in 1980 and is tasked with providing the best quality dental procedures and treatments in Langley and throughout British Columbia.",
+    "url":"https://uploads-ssl.webflow.com/61b5131022f5b04588c3d3fe/61cc60a8fb0ea12bd6152277_Blue%20Water%20Logo.svg"
+  },
+"email":"info@bluewaterdentists.com",
+"telephone":"+16045342324", 
+"aggregateRating": 
+{"@type":"AggregateRating","ratingValue":"5","reviewCount":"37"}, 
+"review":[{ 
+  "@type": "Review", 
+  "author": { 
+  "@type": "Person", 
+  "name": "Pamela Bartlett",
+  "address":{ 
+  "@type": "PostalAddress", 
+  "addressLocality": "Langley", 
+  "addressRegion": "BC"} 
+  }, 
+  "datePublished": "2022-02-15",  
+  "reviewBody": "I have been a patient at blue water dental from the time I was a  child, and now bring my children here.  The staff are very friendly, kind and patient. They are also very knowledgeable and are very helpful and informative. I highly recommend them.", 
+  "url": "https://www.google.com/maps/place/Blue+Water+Dental/#reviews",   
+"reviewRating": { 
+"@type": "Rating", 
+"ratingValue": "5", 
+"bestRating": 5} 
+}, 
+  { 
+  "@type": "Review", 
+  "author": { 
+  "@type": "Person", 
+  "name": "Dan Splinter", 
+  "address":{ 
+  "@type": "PostalAddress", 
+  "addressLocality": "Langley", 
+  "addressRegion": "BC"} 
+}, 
+  "datePublished": "2022-02-01", 
+  "reviewBody": "Great staff, thorough, explained recommended procedures really well with photos, TV’s above chairs", 
+  "url": "https://www.google.com/maps/place/Blue+Water+Dental/#reviews", 
+"reviewRating": { 
+"@type": "Rating", 
+"ratingValue": "5", 
+"bestRating": 5} 
+}, 
+  { 
+  "@type": "Review", 
+  "author": { 
+  "@type": "Person", 
+  "name": "Alison Philpott", 
+  "address":{ 
+  "@type": "PostalAddress", 
+  "addressLocality": "Langley", 
+  "addressRegion": "BC"} 
+}, 
+  "datePublished": "2022-02-01", 
+  "reviewBody": "Blue Water must have the best staff. Not only do they know what they are doing but they go the extra mile to make sure you feel cared for as a person. I highly recommend them to anyone who is nervous about dental procedures.",
+  "url": "https://www.google.com/maps/place/Blue+Water+Dental/#reviews", 
+  "reviewRating": { 
+"@type": "Rating", 
+"ratingValue": "5", 
+"bestRating": 5} 
+}],
+"foundingDate": "2020", 
+  "founder": [ 
+ { 
+ "@type": "Person", 
+ "name": "Dr. Gurpreet Sidhu Dental Professional", 
+ "familyName": "Sidhu",
+ "givenName": "Gurpreet",
+ "image": "https://uploads-ssl.webflow.com/61b5131022f5b04588c3d3fe/61d151dd01c94079cfd9038c_dr-gurpreet-sidhu-full.jpg",
+ "description": "Dr. Sidhu is a native of the Okanagan, British Columbia who completed his Doctorate degree at prestigious University of Detroit Mercy in Michigan before going on to complete specialty certificate for administering oral conscious sedation and attending KOIS centre's courses focusing on excellence with comprehensive prosthetic dentistry!",
+"alternateName": "Dr Gurpreet Sidhu", 
+"brand": "Blue Water Dental", 
+"telephone": "+16045342324",
+"email": "info@bluewaterdentists.com",
+"jobTitle": "Owner", 
+"gender": "Male",
+"worklocation": "Langley, British Columbia", 
+"worksfor": "Blue Water Dental",
+"alumniOf": [
+        {"@type":"Organization",
+        "name":"University of Detroit Mercy",
+        "@id":"https://www.udmercy.edu/#organization",
+        "URL":"https://www.udmercy.edu/",
+        "sameAs":["https://en.wikipedia.org/wiki/University_of_Detroit_Mercy","http://productontology.org/id/University_of_Detroit_Mercy"]},
+        {"@type":"Organization",
+        "name":"University of Detroit Mercy",
+        "@id":"https://www.ubc.ca/#organization",
+        "URL":"https://www.ubc.ca/",
+        "sameAs":["https://en.wikipedia.org/wiki/University_of_British_Columbia","http://productontology.org/id/University_of_British_Columbia"]}],
+  
+  "memberOf": {"@type":"Organization",
+        "name":"KOIS Center",
+        "@id":"https://www.koiscenter.com/#organization",
+        "URL":"https://www.koiscenter.com/",
+        "sameAs":["https://www.facebook.com/KoisCenter/","https://www.linkedin.com/company/kois-center"]}}
+  ],
+  "employee":[
+        {"@id": "https://www.bluewaterdentists.com/#leanne"},
+        {"@id": "https://www.bluewaterdentists.com/#dimple"},
+        {"@id": "https://www.bluewaterdentists.com/#ava"},
+        {"@id": "https://www.bluewaterdentists.com/#haley"},
+        {"@id": "https://www.bluewaterdentists.com/#ashley"},
+	  {"@id": "https://www.bluewaterdentists.com/#samantha"}
+    ],
+"knowsAbout": [
+        "Dental",
+        "Dental Care",
+        "Dentistry",
+        "Dentist",
+        "Dental Clinic",
+        "Dental Office",
+        "General Dentistry",
+        "Cosmetic Dentistry",
+        "Emergency Dentistry",
+        "Pediatric Dentistry",
+        "Family Dentistry",
+        "Oral Health",
+        "Hygienist",
+        "Oral Hygiene",
+        "Teeth",
+        "Tooth Loss",
+        "Porcelain Veneers",
+        "Veneers",
+        "Inlays",
+        "Onlays",
+        "Dentures",
+        "Whitening",
+        "Composite Fillings",
+        "Fillings",
+        "Crowns",
+        "Bridges",
+        "Implants",
+        "Dental Exam",
+        "Oral Exam",
+        "Dental Cleaning",
+        "Scaling",
+        "Root Planing",
+        "Tooth Extractions",
+        "Root Canal",
+        "Wisdom Teeth"
+  ],
+"award": [
+      "5 Stars Rating Google (27 Reviews)",
+      "4.9 Stars Rating RateMDs (66 Reviews)",
+      "5 Stars Rating LuminoHealth (1 Review)"
+    ],
+"address": { 
+"@type":"PostalAddress",
+"@id":"https://www.bluewaterdentists.com/#address",
+"postalCode":"V3A4C4",
+"addressRegion":"British Columbia",
+"addressCountry":"Canada",
+"streetAddress":"208 - 20644 Eastleigh Crescent",
+"addressLocality":"Langley"},
+"hasOfferCatalog": {
+  "@type": "OfferCatalog",
+  "name": "Blue Water Dental Services",
+  "@id": "https://www.bluewaterdentists.com/#services",
+  "additionalType": "https://en.wikipedia.org/wiki/Dentistry",
+  "url": "https://www.bluewaterdentists.com/services/",
+  "itemListElement": [
+  {
+  "@type": "Offer",
+    "itemOffered": [        
+        {
+          "@type": "Service",
+          "name": "Cosmetic Dentistry",
+          "@id": "https://www.bluewaterdentists.com/cosmetic-dentistry/#service",
+          "url": "https://www.bluewaterdentists.com/cosmetic-dentistry/",
+          "description": "Smile! A smile is the first impression that you'll make on other people. When people enter into your room and see how happy you seem, they're more inclined to join in on the positive vibes with their own smiles too. Cosmetic dentists can help give anyone that iconic Hollywood starlet look we all dream about."
+        },
+        {
+          "@type": "Service",
+          "name": "Dental Exam & Teeth Cleaning",
+          "@id": "https://www.bluewaterdentists.com/dental-exam-cleanings/#service",
+          "url": "https://www.bluewaterdentists.com/dental-exam-cleanings/",
+          "description": "Flossing and brushing are just two of the many parts to maintaining a healthy oral hygiene routine. We recommend you brush your dentition twice daily for best results for removing plaque, while professional cleanings can help remove any discolouration from deep within a patient’s mouth that might be hard (or impossible) on their own without an expert hygienists currette skills!"
+        },
+        {
+          "@type": "Service",
+          "name": "Digital X-Rays",
+          "@id": "https://www.bluewaterdentists.com/dental-x-rays/#service",
+          "url": "https://www.bluewaterdentists.com/dental-x-rays/",
+          "description": "When people come into our clinic for the first time, we'll often have to take dental x-rays of their teeth if they show signs of decay. These radiographs provide invaluable information about teeth health and allow us to develop an personalized treatment plan based on what needs attention now as well as any work that might need doing in future visits."
+        },
+        {
+          "@type": "Service",
+          "name": "Composite Fillings",
+          "@id": "https://www.bluewaterdentists.com/composite-fillings/#service",
+          "url": "https://www.bluewaterdentists.com/composite-fillings/",
+          "description": "We all know that dentistry cavities can be a problem for people, but did you also know they're in nearly every adult? Over 90% of the population has at least one cavity. The good news is our dentists recommend composite white fillings and early treatment because this will help lower your risk of future infection as well!"
+        },
+        {
+          "@type": "Service",
+          "name": "Dental Bridges",
+          "@id": "https://www.bluewaterdentists.com/dental-bridge/#service",
+          "url": "https://www.bluewaterdentists.com/dental-bridge/",
+          "description": "Bridges are used to replace missing teeth. Crowns cover the natural tooth structure while bridges fill in spaces left by missing teeth, anchored in place by surrounding natural tooth abutments as crowns. Restorations can be cemented into place with a licensed dentist's help; neither is removable without some intense work to remove!"
+        },
+        {
+          "@type": "Service",
+          "name": "Dental Crowns",
+          "@id": "https://www.bluewaterdentists.com/dental-crowns/#service",
+          "url": "https://www.bluewaterdentists.com/dental-crowns/",
+          "description": "When a tooth is damaged or broken, it’s common to place an artificial crown over the tooth. These are known as crowns and can be found in two different forms: porcelain-made for patient comfort; metal which withstands pressure better. Both can reduce the amount of decay"  
+        },
+        {
+          "@type": "Service",
+          "name": "Dental Implants",
+          "@id": "https://www.bluewaterdentists.com/dental-implants/#service",
+          "url": "https://www.bluewaterdentists.com/dental-implants/",
+          "description": "In order to make sure that your smile is full, you may want consider getting a dental implant. Titanium posts are inserted into jaw bone and placed with healthy teeth in place of missing ones during surgery so they can restore function like a real tooth."
+        },
+        {
+          "@type": "Service",
+          "name": "Invisalign",
+          "@id": "https://www.bluewaterdentists.com/invisalign/#service",
+          "url": "https://www.bluewaterdentists.com/invisalign/",
+          "description": "Invisalign is a unique type of braces that uses clear plastic trays to slowly move your teeth into their proper orientation. Using molds from the inside of one's mouth, Invisalign creates these special aligners in its own facilities using proprietary blend of plastic materials."
+        },
+        {
+          "@type": "Service",
+          "name": "Porcelain Veneers",
+          "@id": "https://www.bluewaterdentists.com/dental-veneers/#service",
+          "url": "https://www.bluewaterdentists.com/dental-veneers/",
+          "description": "You want a white, beautiful smile. Dental veneers can help you achieve that look and more with their transformative powers of awesomeness - whether the issue is tooth discolourations or cracks/chips in your teeth. They're here to restore what nature has given to you by providing an attractive alternative solution."
+        },
+        {
+          "@type": "Service",
+          "name": "Teeth Whitening",
+          "@id": "https://www.bluewaterdentists.com/teeth-whitening/#service",
+          "url": "https://www.bluewaterdentists.com/teeth-whitening/",
+          "description": "The benefits of teeth whitening are not limited to a whiter smile. It also does wonders for the self-confidence you'll feel when your dentist tells you that you can achieve with whiter teeth with professional hydrogen peroxide products from our office!"
+        },
+        {
+          "@type": "Service",
+          "name": "Dental Emergency",
+          "@id": "https://www.bluewaterdentists.com/dental-emergency/#service",
+          "url": "https://www.bluewaterdentists.com/dental-emergency/",
+          "description": "Life is busy. If you have a dental emergency, it's natural to put off treatment until things calm down or let the problem slip through the cracks for as long as possible but waiting days weeks can make an issue worse."
+        },
+        {
+          "@type": "Service",
+          "name": "Root Canals",
+          "@id": "https://www.bluewaterdentists.com/root-canals/#service",
+          "url": "https://www.bluewaterdentists.com/root-canals/",
+          "description": "Root canals are important procedures in order for people to avoid missing teeth; however they also have other benefits too such as being able get treated quickly when necessary without having ongoing tooth pain."
+        },
+        {
+          "@type": "Service",
+          "name": "Sedation Dentistry",
+          "@id": "https://www.bluewaterdentists.com/sedation-dentistry/#service",
+          "url": "https://www.bluewaterdentists.com/sedation-dentistry/",
+          "description": "Conscious sedation can be a very helpful tool for those who are nervous about their upcoming procedures. Sedation for relaxing the patient makes sure they're as comfortable and relaxed during the dental treatment, which in turn reduces any discomfort from it!"
+        },
+        {
+          "@type": "Service",
+          "name": "Tooth Extractions",
+          "@id": "https://www.bluewaterdentists.com/tooth-extraction/#service",
+          "url": "https://www.bluewaterdentists.com/tooth-extraction/",
+          "description": "There are a lot of people who think that their dental problems can be solved by simply going to the dentist when they have tooth pain, but they may not realize how much work needs to take place to fix a tooth. At our office we always do everything possible and more in order for you natural teeth remain healthy! Occasionaly, tooth extractions may become necessary."
+        },
+        {
+          "@type": "Service",
+          "name": "Wisdom Teeth Extractions",
+          "@id": "https://www.bluewaterdentists.com/wisdom-teeth-extractions/#service",
+          "url": "https://www.bluewaterdentists.com/wisdom-teeth-extractions/",
+          "description": "Many patients are told they need to remove their wisdom teeth because they have grown in, but this is not always necessary. Bearing extra teeth and dealing with a crowded mouth can be very uncomfortable for some people who don't want any more work done on themselves than necessary when all they really need is removal of one impacted third molar (wisdom tooth)."
+        },
+    {
+"@type": "WebSite",
+"publisher": {
+"@id": "https://www.bluewaterdentists.com/#parent"
+},
+"name": "Blue Water Dental",
+"@id": "https://www.bluewaterdentists.com/#website",
+"url": "https://www.bluewaterdentists.com/",
+"keywords": "langley dentist eastleigh crescent, dentistry, dentist, dental care, dental office, dental clinic, general dentistry, cosmetic dentistry, pediatric, pediatric dentistry, emergency, emergency dentistry, tooth, teeth, extraction, root canal, pain relief, toothache, whitening, veneers, porcelain veneers, crowns, bridges, inlays, onlays, overlays, dental implants, implants, composite fillings, fillings, smile, scaling, root planing, dental cleaning, cleaning, x-ray, xray, dental exam, oral exam, oral health, oral care, hygienist, dental hygiene, hygiene, childrens dentist, family dentist",
+"about":[
+{"@type": "thing", "name": "dental", "sameAs": ["http://en.wikipedia.org/wiki/Dentistry",
+"https://www.google.com/search?q=dental&kgmid=/m/0277g"]},
+{"@type": "thing", "name": "teeth", "sameAs": ["http://en.wikipedia.org/wiki/Tooth",
+"https://www.google.com/search?q=teeth&kgmid=/m/0cnxs6x"]},
+{"@type": "thing", "name": "cosmetic dentistry", "sameAs": ["http://en.wikipedia.org/wiki/Cosmetic_dentistry",
+"https://www.google.com/search?q=cosmetic+dentistry&kgmid=/m/0czdf7w"]},
+{"@type": "thing", "name": "tooth", "sameAs": ["http://en.wikipedia.org/wiki/Tooth",
+"https://www.google.com/search?q=tooth&kgmid=/m/0cnxs6x"]},
+{"@type": "thing", "name": "smile", "sameAs": ["http://en.wikipedia.org/wiki/Smile",
+"https://www.google.com/search?q=smile&kgmid=/m/019nj4"]},
+{"@type": "thing", "name": "patients", "sameAs": ["http://en.wikipedia.org/wiki/Patient",
+"https://www.google.com/search?q=patients&kgmid=/m/028hfb"]},
+{"@type": "thing", "name": "dentists", "sameAs": ["http://en.wikipedia.org/wiki/Dentistry",
+"https://www.google.com/search?q=dentists&kgmid=/m/0277g"]},
+{"@type": "thing", "name": "veneers", "sameAs": ["http://en.wikipedia.org/wiki/Veneer_(dentistry)",
+"https://www.google.com/search?q=veneers&kgmid=/m/080xy2"]},
+{"@type": "thing", "name": "dental implants", "sameAs": ["http://en.wikipedia.org/wiki/Dental_implant",
+"https://www.google.com/search?q=dental+implants&kgmid=/m/047kyd"]},
+{"@type": "thing", "name": "porcelain", "sameAs": ["http://en.wikipedia.org/wiki/Porcelain",
+"https://www.google.com/search?q=porcelain&kgmid=/m/016f4d"]},
+{"@type": "thing", "name": "teeth whitening", "sameAs": ["http://en.wikipedia.org/wiki/Tooth_whitening",
+"https://www.google.com/search?q=teeth+whitening&kgmid=/m/04b7wk"]},
+{"@type": "thing", "name": "dental office", "sameAs": ["http://en.wikipedia.org/wiki/Dentistry",
+"https://www.google.com/search?q=dental+office&kgmid=/m/0277g"]},
+{"@type": "thing", "name": "dental veneers", "sameAs": ["http://en.wikipedia.org/wiki/Veneer_(dentistry)",
+"https://www.google.com/search?q=dental+veneers&kgmid=/m/080xy2"]},
+{"@type": "thing", "name": "porcelain veneers", "sameAs": ["http://en.wikipedia.org/wiki/Veneer_(dentistry)",
+"https://www.google.com/search?q=porcelain+veneers&kgmid=/m/080xy2"]},
+{"@type": "thing", "name": "invisalign", "sameAs": ["http://en.wikipedia.org/wiki/Align_Technology",
+"https://www.google.com/search?q=invisalign&kgmid=/m/04_55p"]},
+{"@type": "thing", "name": "sedation", "sameAs": ["http://en.wikipedia.org/wiki/Sedation",
+"https://www.google.com/search?q=sedation&kgmid=/m/019bf4"]},
+{"@type": "thing", "name": "dental care", "sameAs": ["http://en.wikipedia.org/wiki/Oral_hygiene",
+"https://www.google.com/search?q=dental+care&kgmid=/m/03h01bs"]},
+{"@type": "thing", "name": "sedation dentistry", "sameAs": ["http://en.wikipedia.org/wiki/Sedation_dentistry",
+"https://www.google.com/search?q=sedation+dentistry&kgmid=/m/0640fdm"]},
+{"@type": "thing", "name": "oral health", "sameAs": ["http://en.wikipedia.org/wiki/Dentistry",
+"https://www.google.com/search?q=oral+health&kgmid=/m/0277g"]},
+{"@type": "thing", "name": "implant", "sameAs": ["http://en.wikipedia.org/wiki/Dental_implant",
+"https://www.google.com/search?q=implant&kgmid=/m/047kyd"]},
+{"@type": "thing", "name": "vine", "sameAs": ["http://en.wikipedia.org/wiki/Vine",
+"https://www.google.com/search?q=vine&kgmid=/m/0d768r"]},
+{"@type": "thing", "name": "crowns", "sameAs": ["http://en.wikipedia.org/wiki/Crown_(dentistry)",
+"https://www.google.com/search?q=crowns&kgmid=/m/04v10x"]},
+{"@type": "thing", "name": "x-rays", "sameAs": ["http://en.wikipedia.org/wiki/X-ray",
+"https://www.google.com/search?q=x-rays&kgmid=/m/087gx"]}
+],
+"mentions":[
+{"@type": "thing", "name": "teeth whitening", "sameAs": ["http://en.wikipedia.org/wiki/Tooth_whitening",
+"https://www.google.com/search?q=teeth+whitening&kgmid=/m/04b7wk"]},
+{"@type": "thing", "name": "cosmetic dentist", "sameAs": ["http://en.wikipedia.org/wiki/Cosmetic_dentistry",
+"https://www.google.com/search?q=cosmetic+dentist&kgmid=/m/0czdf7w"]},
+{"@type": "thing", "name": "veneer", "sameAs": ["http://en.wikipedia.org/wiki/Veneer_(dentistry)",
+"https://www.google.com/search?q=veneer&kgmid=/m/080xy2"]},
+{"@type": "thing", "name": "crown", "sameAs": ["http://en.wikipedia.org/wiki/Crown_(dentistry)",
+"https://www.google.com/search?q=crown&kgmid=/m/04v10x"]},
+{"@type": "thing", "name": "oral health", "sameAs": ["http://en.wikipedia.org/wiki/Dentistry",
+"https://www.google.com/search?q=oral+health&kgmid=/m/0277g"]},
+{"@type": "thing", "name": "porcelain veneers", "sameAs": ["http://en.wikipedia.org/wiki/Veneer_(dentistry)",
+"https://www.google.com/search?q=porcelain+veneers&kgmid=/m/080xy2"]},
+{"@type": "thing", "name": "dental", "sameAs": ["http://en.wikipedia.org/wiki/Dentistry",
+"https://www.google.com/search?q=dental&kgmid=/m/0277g"]},
+{"@type": "thing", "name": "whitening", "sameAs": ["http://en.wikipedia.org/wiki/Tooth_whitening",
+"https://www.google.com/search?q=whitening&kgmid=/m/04b7wk"]},
+{"@type": "thing", "name": "inlays and onlays", "sameAs": ["http://en.wikipedia.org/wiki/Inlays_and_onlays",
+"https://www.google.com/search?q=inlays+and+onlays&kgmid=/m/067zy2"]},
+{"@type": "thing", "name": "inlay", "sameAs": ["http://en.wikipedia.org/wiki/Inlays_and_onlays",
+"https://www.google.com/search?q=inlay&kgmid=/m/067zy2"]},
+{"@type": "thing", "name": "filling", "sameAs": ["http://en.wikipedia.org/wiki/Dental_restoration",
+"https://www.google.com/search?q=filling&kgmid=/m/04419y"]},
+{"@type": "thing", "name": "dentistry", "sameAs": ["http://en.wikipedia.org/wiki/Dentistry",
+"https://www.google.com/search?q=dentistry&kgmid=/m/0277g"]},
+{"@type": "thing", "name": "dental fillings", "sameAs": ["http://en.wikipedia.org/wiki/Dental_restoration",
+"https://www.google.com/search?q=dental+fillings&kgmid=/m/04419y"]},
+{"@type": "thing", "name": "dental implants", "sameAs": ["http://en.wikipedia.org/wiki/Dental_implant",
+"https://www.google.com/search?q=dental+implants&kgmid=/m/047kyd"]},
+{"@type": "thing", "name": "false teeth", "sameAs": ["http://en.wikipedia.org/wiki/Dentures",
+"https://www.google.com/search?q=false+teeth&kgmid=/m/02zb48"]},
+{"@type": "thing", "name": "dental veneers", "sameAs": ["http://en.wikipedia.org/wiki/Veneer_(dentistry)",
+"https://www.google.com/search?q=dental+veneers&kgmid=/m/080xy2"]},
+{"@type": "thing", "name": "braces", "sameAs": ["http://en.wikipedia.org/wiki/Dental_braces",
+"https://www.google.com/search?q=braces&kgmid=/m/03nclr"]},
+{"@type": "thing", "name": "onlay", "sameAs": ["http://en.wikipedia.org/wiki/Inlays_and_onlays",
+"https://www.google.com/search?q=onlay&kgmid=/m/067zy2"]},
+{"@type": "thing", "name": "dental crowns", "sameAs": ["http://en.wikipedia.org/wiki/Crown_(dentistry)",
+"https://www.google.com/search?q=dental+crowns&kgmid=/m/04v10x"]},
+{"@type": "thing", "name": "implants", "sameAs": ["http://en.wikipedia.org/wiki/Dental_implant",
+"https://www.google.com/search?q=implants&kgmid=/m/047kyd"]}
+],
+"hasPart":[
+  {"@id":"https://www.bluewaterdentists.com/contact/#contact"},
+  {"@id":"https://www.bluewaterdentists.com/blog/#blog"},
+  {"@id":"https://www.bluewaterdentists.com/about/#about"}]
+}]
+}]
+} 
+}
+</script> 
+
+<script type="application/ld+json">
+{
+"@context": "http://www.schema.org",
+"@type": "Person",
+"@id": "https://www.bluewaterdentists.com/#dimple",
+"name": "Dimple Goldsmith-Sidhu",
+"alternateName": "Dimple Goldsmith C.D.A.O R.D.H.",
+"nationality": "Canadian",
+"birthPlace" : {
+    "@type": "Place",
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Langley",
+        "addressRegion": "British Columbia",
+        "addressCountry": "Canada"
+    }
+},
+"affiliation": [
+    {
+    "@type": "Organization",
+    "name": "Lighthouse Dental Centre",
+    "url":"https://www.lighthousedentalcentre.com/",
+    "sameAs": ["https://www.facebook.com/lighthousedentalcentre/","https://www.instagram.com/lighthousedental_langley/"]
+    }
+],
+"gender": "Female",
+"Description": "Dimple Goldsmith-Sidhu CDAO RDH is a dental hygienist and office manager at Blue Water Dental in Langley, BC. She is married to Dr Gurpreet Sidhu, and she is friendly, committed to taking care of patients well and their happiness, and she loves talking about travel, food, and fitness.",
+"disambiguatingDescription": "Dimple Goldsmith is a dedicated dental hygienist and office manager at Lighthouse Dental Centre in Langley, BC. She's friendly with an addiction for talking about travel, food or fitness-you name it!",
+"jobTitle": "Office Manager",
+"worksFor": [
+    {"@id":"https://www.bluewaterdentists.com/#organization"}
+],
+"url": "https://www.bluewaterdentists.com/",
+"image": "https://uploads-ssl.webflow.com/61b5131022f5b04588c3d3fe/620c94f814d3286336be2e23_Dimple---Web-Optimized---sRGB2.jpg",
+"address": {"@id":"https://www.bluewaterdentists.com/#address"},
+"sameAs": [
+"https://ca.linkedin.com/in/dimple-goldsmith-335b8379",
+"https://www.facebook.com/dimple.goldsmith"]}
+</script>
+
+<script type="application/ld+json">
+{
+"@context": "http://www.schema.org",
+"@type": "Person",
+"@id": "https://www.bluewaterdentists.com/#drgraemeyip",
+"name": "Dr Graeme Yip",
+"alternateName": "Dr Graeme Yip Dentist",
+"nationality": "Canadian",
+"birthPlace" : {
+    "@type": "Place",
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Langley",
+        "addressRegion": "British Columbia",
+        "addressCountry": "Canada"
+    }
+},
+"gender": "Male",
+"Description": "Dr Yip graduated in 1978 and has experience in many dentistry avenues including dentures, crowns, bridges, implants and composite fillings",
+"disambiguatingDescription": "Dr Graeme Yip is very fortuante to be practicing in the Langley area for over 40 years and enjoys helping people achieve their best smiles using the latest technology in dentistry",
+"jobTitle": "Dentist",
+"worksFor": [
+    {"@id":"https://www.bluewaterdentists.com/#organization"}
+],
+"url": "https://www.bluewaterdentists.com/",
+"image": "https://uploads-ssl.webflow.com/61e7a911958c1d3ae12a57a5/61e7a911958c1d39b72a5995_Dr%20Yip.jpg",
+"address": {"@id":"https://www.bluewaterdentists.com/#address"}}
+</script>
+
+<script type="application/ld+json">
+{
+"@context": "http://www.schema.org",
+"@type": "Person",
+"@id": "https://www.bluewaterdentists.com/#ava",
+"name": "Ava",
+"alternateName": "Ava, Hygienist R.D.H.",
+"nationality": "Canadian",
+"birthPlace" : {
+    "@type": "Place",
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Langley",
+        "addressRegion": "British Columbia",
+        "addressCountry": "Canada"
+    }
+},
+"gender": "Female",
+"Description": "Ava was born in Hong Kong before the Chinese occupation but moved to the lower mainland when very young",
+"disambiguatingDescription": "Ava has been working with her husband Dr. Graeme Yip since 1978 at Blue Water Dental on Eastleigh crescent and enjoys helping give her patient beautiful smiles",
+"jobTitle": "Hygienist",
+"worksFor": [
+    {"@id":"https://www.bluewaterdentists.com/#organization"}
+],
+"url": "https://www.bluewaterdentists.com/",
+"image": "https://uploads-ssl.webflow.com/61e7a911958c1d3ae12a57a5/61e7a911958c1d511b2a5996_Ava.jpg",
+"address": {"@id":"https://www.bluewaterdentists.com/#address"}}
+</script>
+
+<script type="application/ld+json">
+{
+"@context": "http://www.schema.org",
+"@type": "Person",
+"@id": "https://www.bluewaterdentists.com/#leanne",
+"name": "Leanne",
+"alternateName": "Leanne Patient Care Coordinater & Receptionist",
+"nationality": "Canadian",
+"birthPlace" : {
+    "@type": "Place",
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Langley",
+        "addressRegion": "British Columbia",
+        "addressCountry": "Canada"
+    }
+},
+"gender": "Female",
+"Description": "Leanne handles patient care and works as a receptionist at Blue Water Dental. She cares about the happiness of every patient and has a love for her family.",
+"disambiguatingDescription": "Leanne loves her job at Blue Water Dental and jumps in to help patients whenever they need it. She's always been interested in dentistry, so she can't wait for the opportunity to be a part of something bigger than herself!",
+"jobTitle": "Receptionist",
+"worksFor": [
+    {"@id":"https://www.bluewaterdentists.com/#organization"}
+],
+"url": "https://www.bluewaterdentists.com/",
+"image": "https://uploads-ssl.webflow.com/61b5131022f5b04588c3d3fe/61d1601bbe32b111e3fbad09_Leanne.jpg",
+"address": {"@id":"https://www.bluewaterdentists.com/#address"}}
+</script>
+
+<script type="application/ld+json">
+{
+"@context": "http://www.schema.org",
+"@type": "Person",
+"@id": "https://www.bluewaterdentists.com/#haley",
+"name": "Haley",
+"alternateName": "Haley, Hygienist C.D.A.O. R.D.H.",
+"nationality": "Canadian",
+"birthPlace" : {
+    "@type": "Place",
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Langley",
+        "addressRegion": "British Columbia",
+        "addressCountry": "Canada"
+    }
+},
+"gender": "Female",
+"Description": "Haley CDAO RDH works as a hygienist for Blue Water Dental and she cares about the experience of each patient. She also has a great love for Las Vegas.",
+"disambiguatingDescription": "Haley CDAO RDH works as a hygienist for Blue Water Dental and she cares about the experience of each patient. She also has an incredible love of Las Vegas, which shows in her work!",
+"jobTitle": "Hygienist",
+"worksFor": [
+    {"@id":"https://www.bluewaterdentists.com/#organization"}
+],
+"url": "https://www.bluewaterdentists.com/",
+"image": "https://uploads-ssl.webflow.com/61b5131022f5b04588c3d3fe/61d1601b8c31337df118afb2_Haley%202.jpg",
+"address": {"@id":"https://www.bluewaterdentists.com/#address"}}
+</script>
+
+<script type="application/ld+json">
+{
+"@context": "http://www.schema.org",
+"@type": "Person",
+"@id": "https://www.bluewaterdentists.com/#ashley",
+"name": "Ashley",
+"alternateName": "Ashley, Certified Dental Assistant C.D.A.",
+"nationality": "Canadian",
+"birthPlace" : {
+    "@type": "Place",
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Langley",
+        "addressRegion": "British Columbia",
+        "addressCountry": "Canada"
+    }
+},
+"gender": "Female",
+"Description": "Ashley CDA works as a certified dental assistant for Blue Water Dental and she cares about the experience of each patient. She is kind, patient, and optimistic, gently making the best of every situation.",
+"disambiguatingDescription": "Ashley is a CDA who cares for each patient. She has an upbeat, positive attitude and gentle personality that will make you feel comfortable in any situation you're in!",
+"jobTitle": "Dental Assistant",
+"worksFor": [
+    {"@id":"https://www.bluewaterdentists.com/#organization"}
+],
+"url": "https://www.bluewaterdentists.com/",
+"image": "https://uploads-ssl.webflow.com/61b5131022f5b04588c3d3fe/620c8f36fae2e608480eeb99_Ashley%20-%20Final.jpg",
+"address": {"@id":"https://www.bluewaterdentists.com/#address"}}
+</script>
+
+<script type="application/ld+json">
+{
+"@context": "http://www.schema.org",
+"@type": "Person",
+"@id": "https://www.bluewaterdentists.com/#samantha",
+"name": "Samantha",
+"alternateName": "Samantha, Certified Dental Assistant C.D.A.",
+"nationality": "Canadian",
+"birthPlace" : {
+    "@type": "Place",
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Langley",
+        "addressRegion": "British Columbia",
+        "addressCountry": "Canada"
+    }
+},
+"gender": "Female",
+"Description": "Samantha CDA works as a certified dental assistant for Blue Water Dental. She hopes one day to be a dental hygienist and when younger used to be a makeup artist",
+"disambiguatingDescription": "Samantha, CDA is a certified dental assistant who smiles when she comes in to work at Blue Water Dental. She is aware that every patient is different and will have their unique persectives and treats every patient individually.",
+"jobTitle": "Dental Assistant",
+"worksFor": [
+    {"@id":"https://www.bluewaterdentists.com/#organization"}
+],
+"url": "https://www.bluewaterdentists.com/",
+"image": "https://uploads-ssl.webflow.com/61b5131022f5b04588c3d3fe/61d1601b4fca5b54051dc090_Sam.jpg",
+"address": {"@id":"https://www.bluewaterdentists.com/#address"}}
+</script>
