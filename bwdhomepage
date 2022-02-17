@@ -527,35 +527,6 @@
 {
 "@context": "http://www.schema.org",
 "@type": "Person",
-"@id": "https://www.bluewaterdentists.com/#drgraemeyip",
-"name": "Dr Graeme Yip",
-"alternateName": "Dr Graeme Yip Dentist",
-"nationality": "Canadian",
-"birthPlace" : {
-    "@type": "Place",
-    "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Langley",
-        "addressRegion": "British Columbia",
-        "addressCountry": "Canada"
-    }
-},
-"gender": "Male",
-"Description": "Dr Yip graduated in 1978 and has experience in many dentistry avenues including dentures, crowns, bridges, implants and composite fillings",
-"disambiguatingDescription": "Dr Graeme Yip is very fortuante to be practicing in the Langley area for over 40 years and enjoys helping people achieve their best smiles using the latest technology in dentistry",
-"jobTitle": "Dentist",
-"worksFor": [
-    {"@id":"https://www.bluewaterdentists.com/#organization"}
-],
-"url": "https://www.bluewaterdentists.com/",
-"image": "https://uploads-ssl.webflow.com/61e7a911958c1d3ae12a57a5/61e7a911958c1d39b72a5995_Dr%20Yip.jpg",
-"address": {"@id":"https://www.bluewaterdentists.com/#address"}}
-</script>
-
-<script type="application/ld+json">
-{
-"@context": "http://www.schema.org",
-"@type": "Person",
 "@id": "https://www.bluewaterdentists.com/#ava",
 "name": "Ava",
 "alternateName": "Ava, Hygienist R.D.H.",
@@ -672,7 +643,7 @@
 {
 "@context": "http://www.schema.org",
 "@type": "Person",
-"@id": "https://www.bluewaterdentists.com/#samantha",
+"@id": "https://www.bluewaterdentists.com/#dryip",
 "name": "Samantha",
 "alternateName": "Samantha, Certified Dental Assistant C.D.A.",
 "nationality": "Canadian",
