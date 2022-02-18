@@ -1,0 +1,161 @@
+<script type="application/ld+json">{
+    "@context":"https://schema.org",
+    "@type":[
+        "WebPage",
+        "Service"
+    ],
+    "serviceType":"Cosmetic Dentistry Service",
+    "@id":"https://www.bluewaterdentists.com/dental-bridge/#service",
+    "name":"Dental Bridges",
+    "headline":"Dental Bridges with our Langley Dentist",
+    "additionalType":"http://en.wikipedia.org/wiki/Bridge_(dentistry)",
+    "brand":"Blue Water Dental",
+    "description":"With so many options available, it is important to discuss all of your dental needs with a dentist. If you and they feel that a bridge isn't for you or don’t want any more tooth loss due the crowns placed on either side acting as support then implants may be an option worth considering!",
+    "image":{
+        "@type":"ImageObject",
+        "@id":"https://www.bluewaterdentists.com/dental-bridge/#image",
+        "url":"https://uploads-ssl.webflow.com/61b5131022f5b04588c3d3fe/61c549f498ac89db7acb7d68_all-porcelain-dental-bridge.jpg",
+        "caption":"All porcelain dental bridge"
+    },
+    "potentialAction":"Call for a free consultation",
+    "provider":{
+        "@id":"https://www.bluewaterdentists.com/#organization"
+    },
+    "serviceOutput":"Oral Health & Restored Smiles",
+    "url":"https://www.bluewaterdentists.com/dental-bridge/",
+    "about":[
+{"@type": "thing", "name": "tooth", "sameAs": ["http://en.wikipedia.org/wiki/Tooth",
+"https://www.google.com/search?q=tooth&kgmid=/m/0cnxs6x"]},
+{"@type": "thing", "name": "crown", "sameAs": ["http://en.wikipedia.org/wiki/Crown_(dentistry)",
+"https://www.google.com/search?q=crown&kgmid=/m/04v10x"]},
+{"@type": "thing", "name": "dental bridge", "sameAs": ["http://en.wikipedia.org/wiki/Bridge_(dentistry)",
+"https://www.google.com/search?q=dental+bridge&kgmid=/m/03_w8m"]},
+{"@type": "thing", "name": "bridge", "sameAs": ["http://en.wikipedia.org/wiki/Bridge_(dentistry)",
+"https://www.google.com/search?q=bridge&kgmid=/m/03_w8m"]},
+{"@type": "thing", "name": "dental", "sameAs": ["http://en.wikipedia.org/wiki/Dentistry",
+"https://www.google.com/search?q=dental&kgmid=/m/0277g"]},
+{"@type": "thing", "name": "teeth", "sameAs": ["http://en.wikipedia.org/wiki/Tooth",
+"https://www.google.com/search?q=teeth&kgmid=/m/0cnxs6x"]},
+{"@type": "thing", "name": "dentist", "sameAs": ["http://en.wikipedia.org/wiki/Dentistry",
+"https://www.google.com/search?q=dentist&kgmid=/m/0277g"]},
+{"@type": "thing", "name": "insurance", "sameAs": ["http://en.wikipedia.org/wiki/Insurance",
+"https://www.google.com/search?q=insurance&kgmid=/m/03xks"]},
+{"@type": "thing", "name": "implant", "sameAs": ["http://en.wikipedia.org/wiki/Dental_implant",
+"https://www.google.com/search?q=implant&kgmid=/m/047kyd"]},
+{"@type": "thing", "name": "porcelain", "sameAs": ["http://en.wikipedia.org/wiki/Porcelain",
+"https://www.google.com/search?q=porcelain&kgmid=/m/016f4d"]},
+{"@type": "thing", "name": "decay", "sameAs": ["http://en.wikipedia.org/wiki/Tooth_decay",
+"https://www.google.com/search?q=decay&kgmid=/m/025j63"]},
+{"@type": "thing", "name": "price", "sameAs": ["http://en.wikipedia.org/wiki/Price",
+"https://www.google.com/search?q=price&kgmid=/m/01d_1l"]},
+{"@type": "thing", "name": "mouth", "sameAs": ["http://en.wikipedia.org/wiki/Mouth",
+"https://www.google.com/search?q=mouth&kgmid=/m/0283dt1"]},
+{"@type": "thing", "name": "ceramic", "sameAs": ["http://en.wikipedia.org/wiki/Ceramic",
+"https://www.google.com/search?q=ceramic&kgmid=/m/05c61dw"]},
+{"@type": "thing", "name": "patient", "sameAs": ["http://en.wikipedia.org/wiki/Patient",
+"https://www.google.com/search?q=patient&kgmid=/m/028hfb"]},
+{"@type": "thing", "name": "dental crowns", "sameAs": ["http://en.wikipedia.org/wiki/Crown_(dentistry)",
+"https://www.google.com/search?q=dental+crowns&kgmid=/m/04v10x"]},
+{"@type": "thing", "name": "temporary crown", "sameAs": ["http://en.wikipedia.org/wiki/Temporary_crown",
+"https://www.google.com/search?q=temporary+crown&kgmid=/m/09g6tm"]},
+{"@type": "thing", "name": "smile", "sameAs": ["http://en.wikipedia.org/wiki/Smile",
+"https://www.google.com/search?q=smile&kgmid=/m/019nj4"]},
+{"@type": "thing", "name": "false teeth", "sameAs": ["http://en.wikipedia.org/wiki/Dentures",
+"https://www.google.com/search?q=false+teeth&kgmid=/m/02zb48"]},
+{"@type": "thing", "name": "alloy", "sameAs": ["http://en.wikipedia.org/wiki/Alloy",
+"https://www.google.com/search?q=alloy&kgmid=/m/0hq_nhc"]},
+{"@type": "thing", "name": "dental implants", "sameAs": ["http://en.wikipedia.org/wiki/Dental_implant",
+"https://www.google.com/search?q=dental+implants&kgmid=/m/047kyd"]},
+{"@type": "thing", "name": "enamel", "sameAs": ["http://en.wikipedia.org/wiki/Tooth_enamel",
+"https://www.google.com/search?q=enamel&kgmid=/m/01tp3m"]},
+{"@type": "thing", "name": "jaw", "sameAs": ["http://en.wikipedia.org/wiki/Jaw",
+"https://www.google.com/search?q=jaw&kgmid=/m/01k9lj"]}
+    ],
+    "mentions":[
+{"@type": "thing", "name": "crown restorations", "sameAs": ["http://en.wikipedia.org/wiki/Crown_(dentistry)",
+"https://www.google.com/search?q=crown+restorations&kgmid=/m/04v10x"]},
+{"@type": "thing", "name": "oral hygiene", "sameAs": ["http://en.wikipedia.org/wiki/Oral_hygiene",
+"https://www.google.com/search?q=oral+hygiene&kgmid=/m/03h01bs"]},
+{"@type": "thing", "name": "post and cores", "sameAs": ["http://en.wikipedia.org/wiki/Post_and_core",
+"https://www.google.com/search?q=post+and+cores&kgmid=/m/02q34gj"]},
+{"@type": "thing", "name": "tooth preparation", "sameAs": ["http://en.wikipedia.org/wiki/Dental_restoration",
+"https://www.google.com/search?q=tooth+preparation&kgmid=/m/04419y"]},
+{"@type": "thing", "name": "crown lengthening", "sameAs": ["http://en.wikipedia.org/wiki/Crown_lengthening",
+"https://www.google.com/search?q=crown+lengthening&kgmid=/m/02q33zq"]},
+{"@type": "thing", "name": "biologic width", "sameAs": ["http://en.wikipedia.org/wiki/Crown_lengthening",
+"https://www.google.com/search?q=biologic+width&kgmid=/m/02q33zq"]},
+{"@type": "thing", "name": "veneer", "sameAs": ["http://en.wikipedia.org/wiki/Veneer_(dentistry)",
+"https://www.google.com/search?q=veneer&kgmid=/m/080xy2"]},
+{"@type": "thing", "name": "onlay", "sameAs": ["http://en.wikipedia.org/wiki/Inlays_and_onlays",
+"https://www.google.com/search?q=onlay&kgmid=/m/067zy2"]},
+{"@type": "thing", "name": "dental cap", "sameAs": ["http://en.wikipedia.org/wiki/Crown_(dentistry)",
+"https://www.google.com/search?q=dental+cap&kgmid=/m/04v10x"]},
+{"@type": "thing", "name": "prosthetic restorations", "sameAs": ["http://en.wikipedia.org/wiki/Dental_restoration",
+"https://www.google.com/search?q=prosthetic+restorations&kgmid=/m/04419y"]},
+{"@type": "thing", "name": "crown (dentistry)", "sameAs": ["http://en.wikipedia.org/wiki/Crown_(dentistry)",
+"https://www.google.com/search?q=crown+(dentistry)&kgmid=/m/04v10x"]},
+{"@type": "thing", "name": "inlay", "sameAs": ["http://en.wikipedia.org/wiki/Inlays_and_onlays",
+"https://www.google.com/search?q=inlay&kgmid=/m/067zy2"]},
+{"@type": "thing", "name": "root canal therapy", "sameAs": ["http://en.wikipedia.org/wiki/Root_canal_treatment",
+"https://www.google.com/search?q=root+canal+therapy&kgmid=/m/09gbthq"]},
+{"@type": "thing", "name": "dental crowns", "sameAs": ["http://en.wikipedia.org/wiki/Crown_(dentistry)",
+"https://www.google.com/search?q=dental+crowns&kgmid=/m/04v10x"]},
+{"@type": "thing", "name": "indirect restorations", "sameAs": ["http://en.wikipedia.org/wiki/Dental_restoration",
+"https://www.google.com/search?q=indirect+restorations&kgmid=/m/04419y"]},
+{"@type": "thing", "name": "dental restoration", "sameAs": ["http://en.wikipedia.org/wiki/Dental_restoration",
+"https://www.google.com/search?q=dental+restoration&kgmid=/m/04419y"]},
+{"@type": "thing", "name": "filling", "sameAs": ["http://en.wikipedia.org/wiki/Dental_restoration",
+"https://www.google.com/search?q=filling&kgmid=/m/04419y"]},
+{"@type": "thing", "name": "cad/cam", "sameAs": ["http://en.wikipedia.org/wiki/CAD/CAM_dentistry",
+"https://www.google.com/search?q=cad/cam&kgmid=/m/027v5m8"]},
+{"@type": "thing", "name": "impression", "sameAs": ["http://en.wikipedia.org/wiki/Dental_impression",
+"https://www.google.com/search?q=impression&kgmid=/m/0cd_0m"]},
+{"@type": "thing", "name": "root canal treatment", "sameAs": ["http://en.wikipedia.org/wiki/Root_canal_treatment",
+"https://www.google.com/search?q=root+canal+treatment&kgmid=/m/09gbthq"]}
+    ],
+    "isPartOf":"https://www.bluewaterdentists.com/#website",
+    "hasPart":"https://www.bluewaterdentists.com/dental-bridge/#faq"
+}</script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "FAQPage",
+  "isPartOf":"https://www.bluewaterdentists.com/dental-bridge/#service",
+  "@id":"https://www.bluewaterdentists.com/dental-bridge/#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it hard to eat with a bridge?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Oftentimes, people find dental bridges help make eating easier."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do dental bridges impact speech?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but only in the case where your front teeth are missing. The bridge can help restore speech when front teeth are missing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I care for dental bridges?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Care is easy. You'll want to follow a general oral hygiene routine, such as brushing your teeth two or more times daily and flossing. The health of your supporting teeth is key to long-lasting dental bridges. Regular teeth cleanings and dental care can also help extend the lifespan of your dental bridge."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should I contact a dentist if I have issues with my bridge?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If your bite doesn’t feel right or chewing suddenly becomes difficult, small adjustments can be made by the dentist that can correct the issue. You should contact a dentist or healthcare professional immediately if you notice bleeding from the bridge, swelling or experience pain."
+      }
+    }
+  ]
+}
+</script>
