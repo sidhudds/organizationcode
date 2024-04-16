@@ -273,10 +273,10 @@
 "address": { 
 "@type":"PostalAddress",
 "@id":"https://www.lighthousedentalcentre.com/#address",
-"postalCode":"V2Y0E7",
+"postalCode":"V2Y0E2",
 "addressRegion":"British Columbia",
 "addressCountry":"Canada",
-"streetAddress":"105 - 8411 200 St",
+"streetAddress":"310 - 8063 199 St",
 "addressLocality":"Langley"},
 "hasOfferCatalog": {
   "@type": "OfferCatalog",
