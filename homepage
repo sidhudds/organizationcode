@@ -221,7 +221,7 @@
   ],
   "employee":[
         {"@id": "https://www.lighthousedentalcentre.com/#dimple"},
-        {"@id": "https://www.lighthousedentalcentre.com/#carla"},
+        {"@id": "https://www.lighthousedentalcentre.com/#gurleen"},
         {"@id": "https://www.lighthousedentalcentre.com/#haley"},
         {"@id": "https://www.lighthousedentalcentre.com/#ashley"},
         {"@id": "https://www.lighthousedentalcentre.com/#chelsea"}
@@ -264,7 +264,7 @@
         "Wisdom Teeth"
   ],
 "award": [
-      "5 Stars Rating Google (163 Reviews)",
+      "5 Stars Rating Google (345 Reviews)",
       "4.9 Stars Rating RateMDs (60 Reviews)",
       "5 Stars Rating Yelp (3 Reviews)",
       "5 Stars Rating LuminoHealth (1 Review)",
@@ -547,7 +547,7 @@
 {
 "@context": "http://www.schema.org",
 "@type": "Person",
-"@id": "https://www.lighthousedentalcentre.com/#carla",
+"@id": "https://www.lighthousedentalcentre.com/#leanne",
 "name": "Carla",
 "alternateName": "Carla Patient Care Coordinater & Receptionist",
 "nationality": "Canadian",
@@ -561,7 +561,7 @@
     }
 },
 "gender": "Female",
-"Description": "Carla handles patient care and works as a receptionist at Lighthouse Dental Centre. She cares about the happiness of every patient and has a love for animals.",
+"Description": "Leanne handles patient care and works as a receptionist at Lighthouse Dental Centre. She cares about the happiness of every patient and has a love for animals.",
 "disambiguatingDescription": "Carla loves her job at Lighthouse Dental Centre and jumps in to help patients whenever they need it. She's always been interested in dentistry, so she can't wait for the opportunity to be a part of something bigger than herself!",
 "jobTitle": "Receptionist",
 "worksFor": [
